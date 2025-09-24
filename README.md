@@ -21,3 +21,14 @@ It allows users to perform basic arithmetic operations like addition, subtractio
 4. Run the program using:
    ```bash
    python calculator.py
+## Example run 
+===== Python Console Calculator =====
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Exit
+Enter choice (1/2/3/4/5): 1
+Enter first number: 10
+Enter second number: 20
+Result: 30.0

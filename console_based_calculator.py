@@ -1,6 +1,3 @@
-# calculator.py
-# Python Console Calculator
-
 def add(a, b):
     return a + b
 
@@ -51,3 +48,4 @@ def calculator():
 
 if __name__ == "__main__":
     calculator()
+
